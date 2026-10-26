@@ -1,6 +1,7 @@
 # Tarea3_Procesamiento_Spark
 Este proyecto se realizó como parte del curso Big Data de la Universidad Nacional Abierta y a Distancia (UNAD). Su propósito es practicar el procesamiento y análisis de datos utilizando Python y Apache Spark.
-Problema seleccionado
+
+**Problema seleccionado**
 
 Se busca identificar los productos que generan mayores ingresos y comparar los resultados de las categorías de papelería y tecnología.
 **Herramientas utilizadas**
